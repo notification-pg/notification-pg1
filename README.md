@@ -1,3 +1,4 @@
+![logo](![Banner](https://github.com/notification-pg/notification-pg1/assets/169593691/d67ebb43-d61e-4066-a687-f4047ed283fc))
 <h1 align="center">Hi 👋, I'm Preetam Ghosh</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
 
